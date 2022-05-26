@@ -1,30 +1,19 @@
-
-## Project setup backend
-```
-npm install
-```
-
-### Run
-```
-node server.js
-```
-
 # App clientes
 ## React native y expo
 
 ## Pasos de instalación
 
-- Entrar a carpeta
+- Clonar repositorio
 - Instalar expo
 - Instalar dependencias
 - Correr en dispositivo físico
 
 ## Instalación
 
-Entrar a carpeta
+Clonar repo
 
 ```bash
-cd movil/customers
+git clone https://gitlab.com/EnriqueV/clientes-unicomer
 ```
 
 Instalar react native cli
@@ -53,34 +42,4 @@ Ejecutar expo start, esto mostrará un código qr que puede ser leído desde la 
 expo start
 ```
 
-## Apk 
 
-https://i.diawi.com/Hqiaoj
-
-# App clientes web
-
-Versión web de la app de clientes
-
-## Instalación
-
-Entrar a carpeta
-
-```bash
-cd webapp/customers-web
-```
-
-Instalar dependencias
-
-```bash
-npm install
-```
-
-Ejecutar
-
-```bash
-npm run start
-```
-
-## Live demo
-
-https://clientes-web-unicomer.vercel.app/
