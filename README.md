@@ -53,6 +53,10 @@ Ejecutar expo start, esto mostrará un código qr que puede ser leído desde la 
 expo start
 ```
 
+## Apk 
+
+https://i.diawi.com/Hqiaoj
+
 # App clientes web
 
 Versión web de la app de clientes
@@ -76,3 +80,7 @@ Ejecutar
 ```bash
 npm run start
 ```
+
+## Live demo
+
+https://clientes-web-unicomer.vercel.app/
