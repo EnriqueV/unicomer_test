@@ -14,17 +14,17 @@ node server.js
 
 ## Pasos de instalación
 
-- Clonar repositorio
+- Entrar a carpeta
 - Instalar expo
 - Instalar dependencias
 - Correr en dispositivo físico
 
 ## Instalación
 
-Clonar repo
+Entrar a carpeta
 
 ```bash
-git clone https://gitlab.com/EnriqueV/clientes-unicomer
+cd mobile/customers
 ```
 
 Instalar react native cli
@@ -59,10 +59,10 @@ Versión web de la app de clientes
 
 ## Instalación
 
-Clonar repo
+Entrar a carpeta
 
 ```bash
-git clone https://gitlab.com/EnriqueV/clientes-web
+cd web/customers-web
 ```
 
 Instalar dependencias
